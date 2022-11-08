@@ -3,7 +3,7 @@ html, body {
 }
 
 #cuerpoApp {
-    background-color: black;
+    background-color: rgba(6, 48, 4, 0.744);
 }
 
 .headerSide {
@@ -31,7 +31,7 @@ html, body {
 }
 
 .btnLang:hover {
-    background-color: grey;
+    background-color: rgb(132, 180, 181);
     border-radius: 5px;
 }
 
@@ -62,7 +62,7 @@ html, body {
 
 .btnCamara:active {
     color: #5DC1B9;
-    border-left: solid 5px white;
+    border-left: solid 5px rgb(156, 232, 16);
 }
 
 .camaraSeccion {
@@ -90,7 +90,7 @@ progress{
 
 .btnGrabacion_1_3:active {
     color: #5DC1B9;
-    border-left: solid 3px white;
+    border-left: solid 3px rgb(155, 248, 88);
 }
 .btnGrabacion_2 {
     color: #5DC1B9;
@@ -102,5 +102,5 @@ progress{
 
 .btnGrabacion_2:active {
     color: #5DC1B9;
-    border-left: solid 3px white;
+    border-left: solid 3px rgb(33, 245, 104);
 }
