@@ -1,0 +1,106 @@
+html, body {
+    height: 100%;
+}
+
+#cuerpoApp {
+    background-color: black;
+}
+
+.headerSide {
+    height: 5%;
+}
+
+.optionSide {
+    height: 10%;
+}
+
+.infoSide {
+    height: 60%;
+}
+
+.indicadorSide {
+    height: 20%;
+}
+
+.btnLang {
+    font-size: 20px;
+    font-weight: bold;
+    color: #5DC1B9;
+    background-color: transparent;
+    border: transparent;
+}
+
+.btnLang:hover {
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.btnLang:active {
+    color: white;
+}
+
+.btnOpciones {
+    color: #5DC1B9;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: transparent;
+    border: transparent;
+}
+
+.btnOpciones:active{
+    color: white;
+}
+
+.btnCamara {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: transparent;
+    border: transparent;
+    border-left: solid 5px #5DC1B9;
+}
+
+.btnCamara:active {
+    color: #5DC1B9;
+    border-left: solid 5px white;
+}
+
+.camaraSeccion {
+    border-radius: 8px;
+    border: solid 2px rgba(255,255,255,0.6);
+}
+.titleInd {
+    font-size: 15px;
+    color: white;
+    background-color: transparent;
+    border: transparent;
+}
+progress{
+    width: 250px;
+    height: 20px;
+    background-color:black;
+}
+.btnGrabacion_1_3 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #5DC1B9;
+    border:solid 4px #5DC1B9;
+}
+
+.btnGrabacion_1_3:active {
+    color: #5DC1B9;
+    border-left: solid 3px white;
+}
+.btnGrabacion_2 {
+    color: #5DC1B9;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: transparent;
+    border:solid 3px #5DC1B9;
+}
+
+.btnGrabacion_2:active {
+    color: #5DC1B9;
+    border-left: solid 3px white;
+}
